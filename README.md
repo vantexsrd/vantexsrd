@@ -13,6 +13,11 @@ I strive to excel in both areas and constantly seek opportunities to enhance my 
 
 <img width="50%" align="left" src="https://count.getloli.com/get/@:kaanxsrd?theme=rule34">
 
+
+===========================
+
+
+
 ### Experience
 - Python (d.py) 
 - JavaScript, TypeScript,
