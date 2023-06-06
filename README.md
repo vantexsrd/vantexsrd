@@ -11,8 +11,6 @@ The web has always captivated me, and I find great joy in designing and building
 However, this passion does not detract me from working on bots. 
 I strive to excel in both areas and constantly seek opportunities to enhance my skills in web development and bot creation.
 
-<img width="50%" align="left" src="https://count.getloli.com/get/@:kaanxsrd?theme=rule34">
-
 ---
 
 ### Experience
