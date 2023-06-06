@@ -16,6 +16,7 @@ I strive to excel in both areas and constantly seek opportunities to enhance my 
 ---
 
 ### Experience
+
 - Python (d.py) 
 - JavaScript, TypeScript,
 - React (Next.js), Vue (VueX, Nuxt.js)
@@ -23,6 +24,7 @@ I strive to excel in both areas and constantly seek opportunities to enhance my 
 - MongoDB
 
 ### Currently Learning
+
 - PostgreSQL, MySQL, SQLite
 
 
