@@ -15,7 +15,6 @@ I strive to excel in both areas and constantly seek opportunities to enhance my 
 
 ---
 
-
 ### Experience
 - Python (d.py) 
 - JavaScript, TypeScript,
@@ -26,7 +25,6 @@ I strive to excel in both areas and constantly seek opportunities to enhance my 
 ### Currently Learning
 - PostgreSQL, MySQL, SQLite
 
----
 
 ### Contact
 
