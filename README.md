@@ -2,7 +2,7 @@ Hi There👋 My name is Kaan karahanlı
 ===========================
 
 <img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/profile?username=kaanxsrd&data=followers,repositories,stars,commits&theme=darkmode">
-<img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,py,html,css,nodejs,java,php&theme=darkmode">
+<img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,nodejs&theme=darkmode">
 
 Hello I'm Kaan, I'm a full stack developer from **Copenhagen, Denmark**.
 I am currently focused on developing bots and websites on Discord. 
