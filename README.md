@@ -1,7 +1,7 @@
 Hi There👋 My name is Kaan karahanlı
 ===========================
 
-<img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/profile?username=kaanxsrd&data=followers,repositories,stars,commits&theme=darkmode">
+<img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/profile?username=vantexsrd&data=followers,repositories,stars,commits&theme=darkmode">
 <img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/skills?languages=python,js,ts,react,vue,html,css&theme=darkmode">
 
 Hello I'm Kaan, I'm a full stack developer from **Copenhagen, Denmark**.
@@ -12,7 +12,7 @@ However, this passion does not detract me from working on bots.
 I strive to excel in both areas and constantly seek opportunities to enhance my skills in web development and bot creation.
 
 ---
-<img width="50%" align="right" src="https://count.getloli.com/get/@:kaanxsrd?theme=rule34">
+<img width="50%" align="right" src="https://count.getloli.com/get/@:vantexsrd?theme=rule34">
 
 ### Experience
 - Python (d.py) 
