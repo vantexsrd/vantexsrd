@@ -26,6 +26,6 @@ I strive to excel in both areas and constantly seek opportunities to enhance my 
 
 ### Contact
 
-💬 Discord • [vante#1337](https://discord.com/users/797096076330795018)
+💬 Discord • [q7x](https://discord.com/users/797096076330795018)
 
 🌎 Luppux • [Community](https://discord.gg/luppux)
